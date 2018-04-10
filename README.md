@@ -1,3 +1,6 @@
+This project is my attempt at following the excellent tutorial "A Simple React Router v4 Tutorial" by Paul Sherman.
+https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
